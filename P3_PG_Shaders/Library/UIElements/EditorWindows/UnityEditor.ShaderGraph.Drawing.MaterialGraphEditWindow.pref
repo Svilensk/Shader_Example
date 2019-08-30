@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__a5fd69289a1671e4cb53b9bd10d8cb9c__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__a5fd69289a1671e4cb53b9bd10d8cb9c__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__1229746632bd31940af052b76d36c821__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__1229746632bd31940af052b76d36c821__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__be8fafa563f1e01419c45899c91f120e__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__be8fafa563f1e01419c45899c91f120e__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__f2eb1ab70a13c2f4eaff360cbacb0ab6__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__f2eb1ab70a13c2f4eaff360cbacb0ab6__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__6cf8d269f9d384446971e1cb2d1a2e09__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__6cf8d269f9d384446971e1cb2d1a2e09__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__6b15b8f33c40140468b334311d51eb21__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__6b15b8f33c40140468b334311d51eb21__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  m_Values:
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":1195.8187255859375,"y":1226.289306640625,"z":0.0},"scale":{"x":0.4323275685310364,"y":0.4323275685310364,"z":1.0}}'
+  - '{"m_Version":1529,"m_SelectedElementsArray":["2ed69134-6e42-41db-a5b9-3bb3fc45935f","7759917d-4654-4631-9e4b-cb2f6d7486a5","7d84850e-efac-4bb1-86c0-b0865948453d","0039bc7a-0433-4c74-bbfe-bafacd68b5a7","164b59b9-d43f-420a-be98-0323c9c3704c","d1da886b-8ee2-4f57-98b2-d991a421b6de","fec90f92-d719-452a-8bda-957335e02b51","c09b7a67-f531-4a59-9457-8d5b5582e513"]}'
